@@ -9,7 +9,7 @@
 
 - 🎂 Birthdate [10th Dec 2009.]
 
-- 🥳 I enjoy [Playing video games and coding fun projects.](Playing video games and coding fun projects.)
+- 🥳 I enjoy (Playing video games and coding fun projects.)
 
 - 💬 Ask me about **Python, as I love sharing tips and solutions.**
 
