@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Expanding my skills in Python and C++.**
 
-- 🎂 Birthdate [10th Dec 2009.](10th Dec 2009.)
+- 🎂 Birthdate [10th Dec 2009.]
 
 - 🥳 I enjoy [Playing video games and coding fun projects.](Playing video games and coding fun projects.)
 
