@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **You can contact me at fahimahmedayaan10@gmail.com**
 
-- 🚀 Future Goals [To develop immersive gaming experiences and become a full-stack developer.](To develop immersive gaming experiences and become a full-stack developer.)
+- 🚀 Future Goals (To develop immersive gaming experiences and become a full-stack developer.)
 
 - ⚡ Fun fact **I'm pretty good at gaming!**
 
